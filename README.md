@@ -19,7 +19,7 @@ LectureLounge is a Flask + MongoDB web app that lets users post and explore cate
 ```bash
 git clone https://github.com/yourusername/LectureLounge.git
 cd LectureLounge
-2. Create a Virtual Environment
+### 2. Create a Virtual Environment
 bash
 Copy
 Edit
@@ -34,7 +34,7 @@ bash
 Copy
 Edit
 source venv/bin/activate
-3. Install Dependencies
+### 3. Install Dependencies
 If you have a requirements.txt file:
 
 bash
