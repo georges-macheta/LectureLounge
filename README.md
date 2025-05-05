@@ -1,8 +1,10 @@
 # LectureLounge
 🚀 Getting Started: Running LectureLounge Locally
+
 Follow these steps to run the Flask + MongoDB app on your local machine.
 
 📦 Requirements
+
 Python 3.x
 
 Git
@@ -46,26 +48,8 @@ python
 Copy
 Edit
 self.CONNECTION_STRING = "your_mongo_connection_uri"
-Ensure project structure is correct
-Your files should be organized like this:
 
-pgsql
-Copy
-Edit
-LectureLounge/
-├── app.py
-├── database.py
-├── test.js
-├── README.md
-├── venv/
-├── website/
-│   ├── __init__.py
-│   ├── views.py
-│   ├── auth.py
-│   └── templates/
-│       ├── home.html
-│       ├── login.html
-│       └── signup.html
+
 Run the Flask app
 
 powershell
